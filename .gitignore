@@ -1,0 +1,17 @@
+# Quarto cache
+.quarto/
+
+# Output HTML
+*.html
+_site/
+
+# Python venv
+venv/
+.env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+/.quarto/
+**/*.quarto_ipynb
